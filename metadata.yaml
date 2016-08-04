@@ -1,0 +1,51 @@
+_repo: Catherine--A-Story_1969
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+description: "Catherine: A Story was the first full-length work of fiction produced\
+  \ by William Makepeace Thackeray. It first appeared in serialized installments in\
+  \ Fraser's Magazine between May 1839 and February 1840, credited to \"Ikey Solomons,\
+  \ Esq. Junior\". Thackeray's original intention in writing it was to criticize the\
+  \ Newgate school of crime fiction, exemplified by Bulwer-Lytton and Harrison Ainsworth,\
+  \ whose works Thackeray felt glorified criminals. Thackeray even included Dickens\
+  \ in this criticism for his portrayal of the good-hearted streetwalker Nancy and\
+  \ the charming pickpocket, the Artful Dodger, in Oliver Twist.\nAinsworth's Jack\
+  \ Sheppard portrayed a real life prison breaker and thief from the eighteenth century\
+  \ in flattering terms. In contrast, Thackeray sought out a real life criminal whom\
+  \ he could portray in as unflattering terms as possible. He settled on Catherine\
+  \ Hayes, another eighteenth-century criminal, who was burned at the stake for murdering\
+  \ her husband in 1726. However, as he told his mother, Thackeray developed a \"\
+  sneaking kindness\" for his heroine, and the novel that was supposed to present\
+  \ criminals as totally vile, without any redeeming characteristics, instead made\
+  \ Catherine and her roguish companions seem rather appealing. Thackeray felt the\
+  \ result was a failure, and did not republish it in his lifetime.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_issued: '1999-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1969'
+  wikidata: Q5052512
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hayes, Catharine Hall, 1690-1726 -- Fiction'
+- !lcsh 'Women murderers -- Fiction'
+- !lcsh 'Executions and executioners -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Biographical fiction'
+- GITenberg
+title: 'Catherine: A Story'
+url: http://www.gutenberg.org/ebooks/1969
+wikipedia:
+- https://en.wikipedia.org/wiki/Catherine_(novel)
